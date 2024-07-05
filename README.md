@@ -18,4 +18,5 @@ Objetivos:
 Ferramentas:
 
 - [SQL SERVER](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)   
-- [SQL SERVER MANAGEMENT STUDIO(SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)) 
+- [SQL SERVER MANAGEMENT STUDIO(SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16))
+  ![Imagem](img/database.png)
